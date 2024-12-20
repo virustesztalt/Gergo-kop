@@ -1,0 +1,18 @@
+Mi a nevem?
+Gergely
+Bálint
+Donát
+Marci
+A
+Milyen program kódban írodott a Student Helper?
+Java
+C++
+Python
+Rust
+C
+A?
+A
+B
+C
+D
+A
